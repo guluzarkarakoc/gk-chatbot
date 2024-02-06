@@ -1,0 +1,12 @@
+.blue-bot-avatar{
+    width:40px;
+    height: 40px;
+    border-radius: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.9rem;
+    background-color: cornflowerblue;
+    color: darkblue;
+    margin-right: 7px;
+}
